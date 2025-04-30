@@ -159,6 +159,7 @@ img {
 
 }
 
+.ofertas__card--boton-texto,
 .destinos__elemento--boton,
 .ofertas__card--boton {
     border-radius: 8px;
@@ -176,6 +177,8 @@ img {
     line-height: 32px;
     color: var(--blanco, #FFF);
 }
+
+
 
 .busca__categorias {
     display: flex;
